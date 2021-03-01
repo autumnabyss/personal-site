@@ -1,2 +1,3 @@
 # personal-site
-my first personal site 
+
+Autumn's first personal site 
